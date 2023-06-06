@@ -32,3 +32,12 @@ li a:hover:not(.active) {
 nav {
   margin: 20px;
 }
+
+.body {
+  display: inline-flex;
+}
+
+.myimage {
+  position: fixed;
+  bottom: 5px;
+}
