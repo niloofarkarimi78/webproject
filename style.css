@@ -41,3 +41,20 @@ nav {
   position: fixed;
   bottom: 5px;
 }
+
+p {
+  font-size: 24px;
+  color: #5e00e2;
+}
+
+h2 {
+  color: #350080;
+}
+
+.texts {
+  position: fixed;
+  right: 5px;
+  direction: rtl;
+  margin-right: 40px;
+  margin-top: 100px;
+}
