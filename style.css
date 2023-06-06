@@ -58,3 +58,16 @@ h2 {
   margin-right: 40px;
   margin-top: 100px;
 }
+
+button {
+  width: 300px;
+  background-color: #ffffff;
+  border-radius: 15rem;
+  border: 1px solid #e26600;
+  padding: 10px;
+  margin: 10px;
+  color: #5e00e2;
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: bold;
+}
